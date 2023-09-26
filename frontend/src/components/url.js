@@ -1,0 +1,11 @@
+const origin = "http://localhost"
+export const url = origin + ":4000/transaction/transactions/";
+export const adminurl = origin + ":4000/admin/transactions/";
+export const tranurl = origin + ":4000/transaction/transactionsall/";
+export const userurl = origin +":4000/user/curruser/";
+export const usersurl = origin +":4000/user/users/";
+export const caturl = origin +":4000/category/categories/";
+export const walurl = origin +":4000/wallet/wallets/";
+export const loginurl = origin + ":4000/api/user/login/"
+export const comurl = origin + ":4000/company/companies/"
+export const currurl = origin + ":4000/company/usercomp/"
